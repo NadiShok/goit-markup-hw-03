@@ -85,6 +85,7 @@ p {
 }
 
 .nav-item {
+    display: block;
     padding: 24px 0;
 }
 
