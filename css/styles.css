@@ -60,10 +60,6 @@ p {
 
 .address-list {
     display: flex;
-}
-
-.address-list {
-    display: flex;
     gap: 40px;
 }
 
@@ -84,17 +80,14 @@ p {
     color: #2e2f42;
 }
 
-.nav-item {
-    display: block;
-    padding: 24px 0;
-}
-
 .nav-link {
     text-decoration: none;
     font-family: Roboto;
     color: #2E2F42;
     font-size: 16px;
     font-weight: 500;
+    padding: 24px 0;
+    display: block;
 }
 
 .nav-link:hover,
